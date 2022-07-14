@@ -1,4 +1,4 @@
-Construction d'une application avec un modèle d'architecture en microservices de type synchrone
+Construction d'une application en suivant le modèle d'architecture en microservices de type synchrone.
 Elle est destinée à me former sur ce modèle d'architecture.
 
 Elle est actuellement composée d'un microservice customer, et d'un microservice billing.
